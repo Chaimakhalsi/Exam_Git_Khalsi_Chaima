@@ -1,0 +1,67 @@
+commit 1a0df8ff4e8635d767c29662466d6ba968b848a4
+Merge: bcd0893 08c73ef
+Author: chaima khalsi <chaimakhalsi9@gmail.com>
+Date:   Tue Mar 11 10:37:26 2025 +0100
+
+     modif
+
+commit 08c73ef8525d440828dbf6910aaa7266abf5c1aa
+Author: chaima khalsi <chaimakhalsi9@gmail.com>
+Date:   Tue Mar 11 10:23:17 2025 +0100
+
+    Ajout de l'affichage de la date et l'heure
+
+commit 65da948075b6d1f77c1f3e62d9b20f02e7e8cfd2
+Author: chaima khalsi <chaimakhalsi9@gmail.com>
+Date:   Tue Mar 11 10:15:12 2025 +0100
+
+    Ajout du fichier app.py
+
+commit 267346997f843211d91819044a4607ac420cf6f2
+Author: chaima khalsi <chaimakhalsi9@gmail.com>
+Date:   Tue Mar 11 10:13:19 2025 +0100
+
+    file
+
+commit bcd089388827af84c8f246e6639a730921469119
+Merge: 6a13d72 7545355
+Author: chaima khalsi <chaimakhalsi9@gmail.com>
+Date:   Tue Mar 11 10:27:29 2025 +0100
+
+     merge modif
+
+commit 6a13d72a52fd66b97c463d97aaa0ece9de9de468
+Author: chaima khalsi <chaimakhalsi9@gmail.com>
+Date:   Tue Mar 11 10:25:01 2025 +0100
+
+     modif de main app
+
+commit 754535562f7fd539464fbd978096c11d24a68eba
+Author: chaima khalsi <chaimakhalsi9@gmail.com>
+Date:   Tue Mar 11 10:23:17 2025 +0100
+
+    Ajout de l'affichage de la date et l'heure
+
+commit 69814941ef346cbd0e1dee38b384c620bb02c737
+Author: chaima khalsi <chaimakhalsi9@gmail.com>
+Date:   Tue Mar 11 10:15:12 2025 +0100
+
+    Ajout du fichier app.py
+
+commit f2562aab2da03402c870550c3686c279b44241d6
+Author: chaima khalsi <chaimakhalsi9@gmail.com>
+Date:   Tue Mar 11 10:13:19 2025 +0100
+
+    file
+
+commit 57cc094969e29259877e28e0d9dcac24aec39897
+Author: Chaimakhalsi <125158089+Chaimakhalsi@users.noreply.github.com>
+Date:   Tue Mar 11 10:11:18 2025 +0100
+
+    Mise à jour README
+
+commit bb63b7015f1857e6a731d6c43f9865f3c72ec5d8
+Author: Chaimakhalsi <125158089+Chaimakhalsi@users.noreply.github.com>
+Date:   Tue Mar 11 10:09:38 2025 +0100
+
+    Initial commit
